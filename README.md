@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frenox a learning Game Developper
+- 👋 Hi, I’m @Frenox a learning Game Developer
 
 - 🌱 I’m currently learning C#
 
